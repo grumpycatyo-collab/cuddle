@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CuddleApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(CuddleApplication.class, args);
+
+        System.out.println("mama ta");
     }
 
 }
