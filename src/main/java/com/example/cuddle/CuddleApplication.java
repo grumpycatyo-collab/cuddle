@@ -10,7 +10,7 @@ public class CuddleApplication {
 
         SpringApplication.run(CuddleApplication.class, args);
 
-        System.out.println("mama ta");
+        System.out.println("a");
     }
 
 }
